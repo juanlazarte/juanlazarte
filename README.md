@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Juan Ignacio Lazarte</h1>
 <h3 align="center">A passionate Blockchain Developer from Argentina</h3>
 
-- 🔭 I’m currently working with **Solidity, Hardhat, JavaScript, ethers.js**
+- 🔭 I’m currently working with **Solidity, Hardhat, JavaScript, ethers.js, Foundry**
 
 - 🌱 I’m currently learning **Rust and ink**
 
