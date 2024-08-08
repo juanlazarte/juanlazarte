@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working with **Solidity, Hardhat, JavaScript, ethers.js, Foundry**
 
-- 🌱 I’m currently learning **Rust and ink**
+- 🌱 I’m currently learning **React-Nodejs**
 
 - 💬 Ask me about **Blockchain**
 
